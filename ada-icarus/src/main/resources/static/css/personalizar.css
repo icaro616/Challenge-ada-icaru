@@ -1,0 +1,21 @@
+body,html{
+
+    background-color:#181C23;
+    background-image: url(/image/background.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    
+}
+.jesus{
+
+    width: 200px;
+    height: 200px;
+    text-align: center;
+
+}
+button{cursor:pointer;}/*!sc*/
+a{cursor:pointer;-webkit-text-decoration:none;text-decoration:none;}/*!sc*/
+::-webkit-scrollbar{width:10px;height:10px;}/*!sc*/
+::-webkit-scrollbar-track{box-shadow:none;-webkit-box-shadow:none;background-color:#0F1216;border-radius:10px;}/*!sc*/
+::-webkit-scrollbar-thumb{border-radius:20px;background-color:#181C23;}/*!sc*/
+::-webkit-scrollbar-corner{background:rgba(0,0,0,0);}/*!sc*/
